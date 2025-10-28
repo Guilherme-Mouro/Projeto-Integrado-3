@@ -71,4 +71,18 @@ Fazer o curso **"Flutter & Dart - The Complete Guide [2025 Edition]"** e, possiv
 
 ![expenses_app_2](https://github.com/user-attachments/assets/a2f384b0-654f-418b-a7c4-3a279245a793)
 
+---
+
+#### Dia 28/10/2025  
+**Curso realizado até a lição 181**
+
+---
+
+<img width="914" height="451" alt="image" src="https://github.com/user-attachments/assets/3c03db1f-b4c1-47b5-961a-b3668bf7ea70" /> <br><br>
+
+![meals_app_1](https://github.com/user-attachments/assets/54d73eeb-ec1c-4c7b-9ec7-22dc75ef9ee7) <br><br>
+
+![meals_app_2](https://github.com/user-attachments/assets/0d527e27-ecb0-449f-b4cd-3de01cd34f2d)
+
+---
 
