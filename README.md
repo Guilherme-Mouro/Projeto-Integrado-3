@@ -25,7 +25,7 @@ Fazer o curso **"Flutter & Dart - The Complete Guide [2025 Edition]"** e, possiv
 
 ## Progresso nos Cursos
 
-### Flutter & Dart - The Complete Guide [2025 Edition]
+### Flutter & Dart - The Complete Guide [2025 Edition] - COMPLETO
 
 #### Dia 09/10/2025  
 **Curso realizado até a lição 34**
@@ -96,3 +96,18 @@ Fazer o curso **"Flutter & Dart - The Complete Guide [2025 Edition]"** e, possiv
 <img width="884" height="441" alt="image" src="https://github.com/user-attachments/assets/b9b5d404-f967-41eb-814b-f39f5c392ba2" /> <br><br>
 
 ![shopping_app](https://github.com/user-attachments/assets/8c55d411-f9eb-4c69-9a59-c819bd893821)
+
+---
+
+#### Dia 11/11/2025
+**Curso Finalizado**
+
+---
+
+[Certificado Udemy - Flutter & Dart - The Complete Guide [2025 Edition].pdf](https://github.com/user-attachments/files/23478095/Certificado.Udemy.-.Flutter.Dart.-.The.Complete.Guide.2025.Edition.pdf) <br><br>
+
+![chat_app](https://github.com/user-attachments/assets/097c194b-c6c1-4273-842a-75eb7ba1791c)
+
+
+  
+
