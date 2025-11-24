@@ -11,15 +11,16 @@
 
 ## Tecnologias a Estudar
 
-Estudar **Flutter & Dart** para o desenvolvimento de uma aplicação mobile multiplataforma (Android e iOS).  
+Estudar **Flutter & Dart** para o desenvolvimento de uma aplicação mobile multiplataforma (Android e iOS).
 
-Fazer o curso **"Flutter & Dart - The Complete Guide [2025 Edition]"** e, possivelmente, outros cursos complementares na plataforma **Udemy**.  
+Estudar **Vue & Nuxt** para o desenvolvimento de uma plataforma web.
 
 ---
 
 ## Cursos
 
 - [Flutter & Dart - The Complete Guide [2025 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?couponCode=MT251006G1)
+- [Nuxt 3 & Supabase Mastery: Build 2 Full-Stack Apps](https://www.udemy.com/course/master-nuxt-full-stack-complete-guide/?couponCode=CP251120G2)
 
 ---
 
