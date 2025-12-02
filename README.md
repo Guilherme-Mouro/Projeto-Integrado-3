@@ -17,6 +17,10 @@ Estudar **Vue & Nuxt** para o desenvolvimento de uma plataforma web.
 
 ---
 
+Projeto final: [Clubeo](https://guimou.antrob.eu)
+
+---
+
 ## Cursos
 
 - [Flutter & Dart - The Complete Guide [2025 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?couponCode=MT251006G1)
@@ -109,6 +113,15 @@ Estudar **Vue & Nuxt** para o desenvolvimento de uma plataforma web.
 
 ![chat_app](https://github.com/user-attachments/assets/097c194b-c6c1-4273-842a-75eb7ba1791c)
 
+---
+
+### Nuxt 3 & Supabase Mastery: Build 2 Full-Stack Apps
+
+#### Dia 02/12/2025  
+**Curso realizado até a lição 31**
+
+---
+<img width="920" height="458" alt="image" src="https://github.com/user-attachments/assets/217459fe-8c06-4d46-a7b3-074ecc94dc41" />
 
   
 
