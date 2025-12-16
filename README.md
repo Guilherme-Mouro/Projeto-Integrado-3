@@ -121,7 +121,18 @@ Projeto final: [Clubeo](https://guimou.antrob.eu)
 **Curso realizado até a lição 31**
 
 ---
+
 <img width="920" height="458" alt="image" src="https://github.com/user-attachments/assets/217459fe-8c06-4d46-a7b3-074ecc94dc41" />
 
-  
+---
 
+#### Dia 16/12/2025
+**Curso realizado até a lição 71**
+
+---
+
+<img width="917" height="461" alt="image" src="https://github.com/user-attachments/assets/9ef46efb-cbb7-4e3a-b978-a13e49bbf32a" /> <br><br>
+
+![portofolio](https://github.com/user-attachments/assets/7d9eb456-fff9-4ae4-8b68-406992522abc)
+
+---
