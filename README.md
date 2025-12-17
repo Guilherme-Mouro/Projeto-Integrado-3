@@ -115,7 +115,7 @@ Projeto final: [Clubeo](https://guimou.antrob.eu)
 
 ---
 
-### Nuxt 3 & Supabase Mastery: Build 2 Full-Stack Apps
+### Nuxt 3 & Supabase Mastery: Build 2 Full-Stack Apps - COMPLETO
 
 #### Dia 02/12/2025  
 **Curso realizado até a lição 31**
@@ -134,5 +134,18 @@ Projeto final: [Clubeo](https://guimou.antrob.eu)
 <img width="917" height="461" alt="image" src="https://github.com/user-attachments/assets/9ef46efb-cbb7-4e3a-b978-a13e49bbf32a" /> <br><br>
 
 ![portofolio](https://github.com/user-attachments/assets/7d9eb456-fff9-4ae4-8b68-406992522abc)
+
+---
+
+#### Dia 17/12/2025
+**Curso Finalizado**
+
+---
+
+[UC-67382a76-7674-40a8-a024-669a14845bf3.pdf](https://github.com/user-attachments/files/24220606/UC-67382a76-7674-40a8-a024-669a14845bf3.pdf)
+<br><br>
+
+<img width="1919" height="905" alt="imagem" src="https://github.com/user-attachments/assets/36fcd031-ee05-4fd8-bb93-75ed1496a622" />
+
 
 ---
